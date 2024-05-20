@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "user_id": "9493030392001",
+    "serialNumber": "dc4993f188f0f034d1250bdff968e418",
+    "issuer": "CN: Napatr, O: nine, OU: nine, L: Bangkok, ST: Krung Thep Maha Nakhon, C: Thailand",
+    "validFrom": "2024-05-19T11:52:07.000Z",
+    "validTo": "2025-05-19T11:52:07.000Z",
+    "issuedBy": "CN: PeaceKeeper, O: BanchangPki, OU: Secure Division",
+    "publicKey": "\rMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMoiYr6yrkWbm1yVKJQf4RYnygwYRV7N\rNrizrLQ2DnvOBquAVmCHtZRwlgx0Xgp82DxHaNYm0c1opotJGJ2OAIUCAwEAAQ==\r\r",
+    "state": "northern"
+  },
+  {
+    "id": 2,
+    "user_id": "3123983993431231232432",
+    "serialNumber": "bf9add0556fa1abf5c46780ab6f4f9b6",
+    "issuer": "CN: Napatr, O: nine, OU: nine, L: Bangkok, ST: Krung Thep Maha Nakhon, C: Thailand",
+    "validFrom": "2024-05-19T12:26:34.000Z",
+    "validTo": "2025-05-19T12:26:34.000Z",
+    "issuedBy": "CN: PeaceKeeper, O: BanchangPki, OU: Secure Division",
+    "publicKey": "\rMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMbUS8cR1DSQxwB5I2IVedvcDRJFRszi\r9JyU3Ab7szdzwRKytx1FxBjRyF8FOmPIrRhnSqdnrvHxUgdw8/IXtG0CAwEAAQ==\r\r",
+    "state": "northern"
+  },
+  {
+    "id": 301,
+    "user_id": "30482301293034",
+    "serialNumber": "b305bea6be40816edf2d6eecba818d6f",
+    "issuer": "CN: hehe, O: hehe, OU: hehe, L: Bangkok, ST: Krung Thep Maha Nakhon, C: Thailand",
+    "validFrom": "2024-05-19T11:51:37.000Z",
+    "validTo": "2025-05-19T11:51:37.000Z",
+    "issuedBy": "CN: PeaceKeeper, O: BanchangPki, OU: Secure Division",
+    "publicKey": "\rMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKORQOgtbwf16i0Jtvvq7EyGjpEUaJKR\rZZjOg6kQAr7/TkV1ZcG5W+qO0e/DCQ+9ln70peyB4mF0W6RZ3+dWt1cCAwEAAQ==\r\r",
+    "state": "central"
+  },
+  {
+    "id": 302,
+    "user_id": "30482301293034",
+    "serialNumber": "1da6fd4f7af015a7a720a6bc300da574",
+    "issuer": "CN: oh, O: oh, OU: nine, L: Bangkok, ST: Krung Thep Maha Nakhon, C: Thailand",
+    "validFrom": "2024-05-19T12:18:03.000Z",
+    "validTo": "2025-05-19T12:18:03.000Z",
+    "issuedBy": "CN: PeaceKeeper, O: BanchangPki, OU: Secure Division",
+    "publicKey": "\rMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALPPcRIsfsCNHqeJfLsXbRuehm0vAp//\rIWBRp426xsNkwyW/Lfm5dWTdFRzDe90PTRiPj45pdtsX46lr+gvS1rUCAwEAAQ==\r\r",
+    "state": "central"
+  },
+  {
+    "id": 303,
+    "user_id": "30482301293034",
+    "serialNumber": "cc5036142662307be937754e75cd06ed",
+    "issuer": "CN: sdfasf, O: nine, OU: nine, L: Bangkok, ST: Krung Thep Maha Nakhon, C: Thailand",
+    "validFrom": "2024-05-19T12:18:30.000Z",
+    "validTo": "2025-05-19T12:18:30.000Z",
+    "issuedBy": "CN: PeaceKeeper, O: BanchangPki, OU: Secure Division",
+    "publicKey": "\rMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALYyRYVoF8OK3WOA/MjZi5yq83gvHIJj\r9ab7a7zW7k0hk3zTI2iCp+R9mRlfND+ro4RysImNJGOTogPW6g90muMCAwEAAQ==\r\r",
+    "state": "central"
+  },
+  {
+    "id": 304,
+    "user_id": "30482301293034",
+    "serialNumber": "81b585bf5f656f1b064ec3939df040f1",
+    "issuer": "CN: Napatr, O: nine, OU: nine, L: Bangkok, ST: Krung Thep Maha Nakhon, C: Thailand",
+    "validFrom": "2024-05-19T12:23:47.000Z",
+    "validTo": "2025-05-19T12:23:47.000Z",
+    "issuedBy": "CN: PeaceKeeper, O: BanchangPki, OU: Secure Division",
+    "publicKey": "\rMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALNy/6rmU8PN2izhd2GLzLsmEIR5/9XJ\rwat97itMQAML60AXHg4XN74N/S7+fq+OHTO0kc/dFaGHp3E6SMQq2YMCAwEAAQ==\r\r",
+    "state": "central"
+  },
+  {
+    "id": 305,
+    "user_id": "30482301293034",
+    "serialNumber": "5374525232ab07634e1b00fa224eafb9",
+    "issuer": "CN: sdfasdf, O: nine, OU: nine, L: Bangkok, ST: Krung Thep Maha Nakhon, C: Thailand",
+    "validFrom": "2024-05-19T12:25:28.000Z",
+    "validTo": "2025-05-19T12:25:28.000Z",
+    "issuedBy": "CN: PeaceKeeper, O: BanchangPki, OU: Secure Division",
+    "publicKey": "\rMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALljLiBEprfvdJHYSyYCxFA7xeI8KEXk\rG813qp0l9cO3CZue+oGhTU5golFQxJEDkpxFKjA9dhAoPejS/b8HkQECAwEAAQ==\r\r",
+    "state": "central"
+  }
+]
